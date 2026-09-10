@@ -109,9 +109,9 @@ LUFFY/
 - [ ] **luffy/verl/verl/protocol.py:115** - Add support for different tensor types and shapes
 - [ ] **luffy/verl/verl/protocol.py:136** - Optimize tensor view operations for performance
 - [ ] **luffy/verl/verl/protocol.py:137** - Add error handling for invalid batch dimensions
-- [ ] **luffy/verl/verl/protocol.py:156** - (zhangchi.usc1992) add consistency check
+- [ ] **luffy/verl/verl/protocol.py:169** - (zhangchi.usc1992) add consistency check
 - [ ] **luffy/verl/verl/protocol.py:265** - we can actually lift this restriction if needed
-- [ ] **luffy/verl/verl/protocol.py:338** - (zhangchi.usc1992) whether to copy
+- [ ] **luffy/verl/verl/protocol.py:351** - (zhangchi.usc1992) whether to copy
 - [ ] **luffy/verl/verl/single_controller/ray/base.py:439** - create a class with customizable name
 - [ ] **luffy/verl/verl/third_party/vllm/vllm_v_0_3_1/arg_utils.py:64** - (shengguangming): delete the unused args
 - [ ] **luffy/verl/verl/third_party/vllm/vllm_v_0_3_1/arg_utils.py:147** - (woosuk): Support fine-grained seeds (e.g., seed per request).
